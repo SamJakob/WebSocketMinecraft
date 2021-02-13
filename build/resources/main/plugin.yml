@@ -1,0 +1,3 @@
+name: WebSocketMinecraft
+main: com.samjakob.websocket_minecraft.Main
+version: 1.0.0

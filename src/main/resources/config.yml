@@ -1,0 +1,6 @@
+websocket-server:
+  api-key: "hello"
+  host: "localhost"
+  port: 8070
+
+distance: 20
